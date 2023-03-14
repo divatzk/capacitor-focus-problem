@@ -1,9 +1,7 @@
 ## IOS Input Focus Problem
 
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
-
+<img src="https://github.com/divatzk/capacitor-focus-problem/raw/main/src/assets/screenshots/screen.png?raw=true" width="300">
+<img src="https://github.com/divatzk/capacitor-focus-problem/blob/main/src/assets/screenshots/screen-focus.png?raw=true" width="300">
 
 ### Running this example
 
